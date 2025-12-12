@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-Ben, veriye dayalı modeller ve görüntü işleme yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan ve zaman zaman elektronik prototipler geliştirebilen bir Bilgisayar Mühendisiyim.  
+Ben, veriye dayalı modeller ve görüntü işleme yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan ve elektronik prototipler geliştirebilen bir Bilgisayar Mühendisiyim.  
 Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüstü ve mobil uygulama geliştirme gibi alanlarda uçtan uca sistem yaklaşımını benimsiyorum.
 </p>
 
