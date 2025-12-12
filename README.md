@@ -84,15 +84,6 @@ Projelerimde; **algoritma tasarımı**, **sensör/telemetri verisi işleme** ve 
 
 <div align="center">
 
-## 📊 GitHub İstatistikleri
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismetarslan101&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismetarslan101&layout=compact&theme=radical" width="40%" />
-</p>
-
 <div align="center">
   <i>“Paylaştığın senindir, biriktirdiğin değil.”</i>
 </div>
