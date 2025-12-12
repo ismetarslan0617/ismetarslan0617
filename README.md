@@ -35,11 +35,16 @@ Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüst
 
 </div>
 
-- 🧠 **Makine Öğrenmesi**
+<div align="center">
+
 - 🖼️ **Görüntü İşleme**
+- 🧠 **Makine Öğrenmesi**
+- 🧩 **Algoritma Tasarımı ve Veri İşleme**
 - 🤖 **Yapay Zekâ Destekli Mühendislik Uygulamaları**
 - 🚀 **Aviyonik Sistem Tasarımı (sistem & yazılım seviyesi)**
-- 🧩 **Algoritma Tasarımı ve Veri İşleme**
+
+
+</div>
 
 ---
 
