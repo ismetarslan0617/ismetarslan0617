@@ -52,39 +52,29 @@ Projelerimde; **algoritma tasarımı**, **sensör/telemetri verisi işleme** ve 
 <div align="center">
 
 ### 💻 Programlama Dilleri
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,matlab" />
-</div>
-
-<div align="center">
-
-### 📚 Kütüphaneler & Frameworkler
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-</div>
-
 <p align="center">
-  <b>Tkinter</b> • <b>WinForms</b>
+  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,matlab" />
 </p>
 
-<div align="center">
-
-### ⚙️ Araçlar & Platformlar
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</div>
+### 📚 Kütüphaneler & Frameworkler
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
 
 <p align="center">
-  <b>Trello</b> • <b>Jenkins</b> • <b>OpenRocket</b>
+  <img src="https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### ⚙️ Araçlar & Platformlar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRocket-000000?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 > Not: STM32, LoRa RF ve çeşitli sensörlerle **uygulama bazlı** deneyimim bulunuyor.
