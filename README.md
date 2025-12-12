@@ -1,53 +1,105 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=İsmet%20Arslan&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
 
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ismet Arslan Header">
-  <!-- Background -->
-  <rect x="0" y="0" width="900" height="180" rx="22" fill="#0b1220"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Engineer;Rocket+Avionics+%7C+Embedded+Systems;AI-Supported+Simulation+%7C+Computer+Vision" />
+</h1>
 
-  <!-- Accent line -->
-  <rect x="50" y="140" width="800" height="2" fill="#00BFFF"/>
-
-  <!-- Minimal rocket icon -->
-  <g transform="translate(70,95)">
-    <path d="M32 -36 C54 -16, 54 16, 32 36 C18 18, 18 -18, 32 -36Z" fill="#00BFFF"/>
-    <circle cx="36" cy="0" r="6" fill="#0b1220"/>
-    <path d="M32 36 L26 52 L38 52 Z" fill="#7CFFB2"/>
-  </g>
-
-  <!-- Text -->
-  <text x="140" y="78" fill="#ffffff" font-size="38" font-weight="700"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    İsmet Arslan
-  </text>
-
-  <text x="140" y="108" fill="#cfe9ff" font-size="15"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    Rocket Avionics • Embedded Systems • AI-Supported Simulation
-  </text>
-
-  <text x="140" y="130" fill="#9fbcd1" font-size="12"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    Simulation → Data-driven modeling → Hardware validation
-  </text>
-
-  <!-- Chips -->
-  <rect x="600" y="45" rx="14" ry="14" width="120" height="28" fill="#7CFFB2"/>
-  <text x="618" y="64" fill="#06131f" font-size="12" font-weight="600"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    STM32 / IMU
-  </text>
-
-  <rect x="734" y="45" rx="14" ry="14" width="70" height="28" fill="#6fdcff"/>
-  <text x="755" y="64" fill="#06131f" font-size="12" font-weight="600"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    UKF
-  </text>
-
-</svg>
-
-<br/>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismet-arslan-58a67a269/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismetarslan0617@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismetarslan)
 
+</div>
+
+---
+
+## 🚀 About Me
+
+<p align="center">
+  <i>Computer Engineering student focused on rocket avionics, embedded systems, and AI-supported engineering</i>
+</p>
+
+I am a **Computer Engineering student** working at the intersection of  
+**rocket avionics, embedded systems, simulation, and artificial intelligence**.
+
+My primary interest lies in developing **real-time flight systems** and validating them through  
+**simulation → data-driven modeling → hardware integration** pipelines.
+
+I actively work on:
+- 🚀 Rocket flight computers and avionics architectures  
+- 📡 Sensor fusion and orientation estimation (UKF, quaternion-based models)  
+- 🧠 Machine learning–assisted flight and landing prediction  
+- 🖼️ Computer vision–based analysis and perception systems  
+
+I value **engineering discipline**, **iterative development**, and **sharing knowledge** as core principles.
+
+---
+
+## 🎯 Focus Areas
+- 🚀 Rocket Avionics & Flight Systems  
+- 📡 Embedded Systems (STM32, IMU, Telemetry)  
+- 🧭 Sensor Fusion & State Estimation (UKF, Kalman Filters)  
+- 🧠 Machine Learning for Simulation & Prediction  
+- 🖼️ Computer Vision & Image Processing  
+
+---
+
+## 🛠️ Technology Stack
+
+### 💻 Programming & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,matlab,sqlite,bash" />
+</p>
+
+### 🧠 AI / Data / Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### ⚙️ Embedded & Engineering Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+</p>
+
+---
+
+## 🛰️ Highlighted Work
+
+### 🚀 ML-Supported Rocket Flight Simulation & Landing Prediction
+- OpenRocket `.ork` file parsing with Python (ORHelper)
+- Monte Carlo–based flight envelope analysis
+- MLP-based landing point prediction using real weather data
+- Tkinter-based desktop application with map visualization
+
+### 🧭 STM32-Based Avionics & Sensor Fusion
+- STM32F4 series flight computer development
+- IMU-based orientation estimation using UKF
+- Quaternion normalization and numerical stability handling
+- Real-time telemetry transmission and ground station integration
+
+### 🍎 Computer Vision – Rotten/Fresh Detection
+- HSV & LAB color space–based classical vision pipelines
+- Shadow-resistant segmentation techniques
+- Statistical feature extraction and ML-based classification
+- Exploration of transformer-based segmentation methods
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismetarslan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismetarslan&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+<div align="center">
+  <i>“Engineering is not just building systems — it’s validating them against reality.”</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
 </div>
