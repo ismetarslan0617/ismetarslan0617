@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=Bilgisayar+Mühendisi;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=Bilgisayar+Mühendisi;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik;" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -65,8 +65,8 @@ Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüst
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### ⚙️ Araçlar & Platformlar
