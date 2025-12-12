@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Engineer;Rocket+Avionics+%7C+Embedded+Systems;AI-Supported+Simulation+%7C+Computer+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisliği+Öğrencisi;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik" />
 </h1>
 
 <div align="center">
@@ -16,80 +16,80 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Hakkımda
 
 <p align="center">
-  <i>Computer Engineering student focused on rocket avionics and AI-supported engineering</i>
+  <i>Makine öğrenmesi, görüntü işleme ve yapay zekâ destekli mühendislik sistemleri üzerine çalışan Bilgisayar Mühendisliği öğrencisi</i>
 </p>
 
-I am a **Computer Engineering student** working at the intersection of  
-**rocket avionics,  simulation, and artificial intelligence**.
+Ben, **makine öğrenmesi**, **görüntü işleme** ve  
+**yapay zekâ destekli mühendislik çözümleri** üzerine çalışmalar yürüten  
+bir **Bilgisayar Mühendisliği öğrencisiyim**.
 
-My primary interest lies in developing **real-time flight systems** and validating them through  
-**simulation → data-driven modeling → hardware integration** pipelines.
+Odak noktam; **veriye dayalı modeller** geliştirerek mühendislik problemlerini çözmek,  
+simülasyon ve algoritma temelli yaklaşımları **uygulamaya dönüştürmektir**.
 
-I actively work on:
-- 🚀 Rocket flight computers and avionics architectures  
-- 📡 Sensor fusion and orientation estimation (UKF, quaternion-based models)  
-- 🧠 Machine learning–assisted flight and landing prediction  
-- 🖼️ Computer vision–based analysis and perception systems  
+Çalışmalarımda özellikle:
+- Gerçek dünya problemlerini **algoritmik olarak modelleme**
+- Makine öğrenmesi ile **tahmin ve sınıflandırma**
+- Görüntü işleme teknikleri ile **analiz ve karar destek**
+- Masaüstü uygulamalarla **kullanıcı odaklı sistem geliştirme**
 
-I value **engineering discipline**, **iterative development**, and **sharing knowledge** as core principles.
+konularına yoğunlaşmaktayım.
 
 ---
 
-## 🎯 Focus Areas
-- 🚀 Rocket Avionics & Flight Systems  
-- 📡 Embedded Systems (STM32, IMU, Telemetry, Arduino)  
-- 🧭 Sensor Fusion & State Estimation (UKF, Kalman Filters)  
-- 🧠 Machine Learning for Simulation & Prediction  
-- 🖼️ Computer Vision & Image Processing  
+## 🎯 Odak Alanlarım
+- 🧠 Makine Öğrenmesi  
+- 🖼️ Görüntü İşleme ve Bilgisayarlı Görü  
+- 🤖 Yapay Zekâ Destekli Mühendislik Uygulamaları  
+- 📊 Algoritma Tasarımı ve Veri İşleme  
+- 🧩 Sistem ve Yazılım Mühendisliği Yaklaşımları  
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Teknik Yetkinlikler
 
-### 💻 Programming & Scripting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,matlab,sqlite,bash" />
-</p>
+### 💻 Programlama Dilleri
+- **Python**, **C**, **C#**, **Java**, **JavaScript**, **MATLAB**
 
-### 🧠 AI / Data / Vision
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-</p>
+### 📚 Kütüphaneler ve Frameworkler
+- **OpenCV**, **TensorFlow**
+- **Tkinter**, **WinForms**
 
-### ⚙️ Embedded & Engineering Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
-</p>
+### 🧰 Araçlar ve Platformlar
+- **Git**, **GitHub**
+- **Trello**, **Jenkins**
+- **OpenRocket**
+
+> Gömülü sistemler ve donanım bileşenleriyle ilgili çalışmalarım,  
+> ağırlıklı olarak **sensör verisi işleme ve sistem entegrasyonu bağlamında**  
+> sınırlı ve uygulama odaklıdır.
 
 ---
 
-## 🛰️ Highlighted Work
+## 🛰️ Öne Çıkan Çalışmalar
 
-### 🚀 ML-Supported Rocket Flight Simulation & Landing Prediction
-- OpenRocket `.ork` file parsing with Python (ORHelper)
-- Monte Carlo–based flight envelope analysis
-- MLP-based landing point prediction using real weather data
-- Tkinter-based desktop application with map visualization
+### 🍎 Görüntü İşleme – Taze / Çürük Meyve Tespiti
+- HSV ve LAB renk uzaylarıyla klasik görüntü işleme yöntemleri
+- Gölgeye dayanıklı segmentasyon teknikleri
+- Öznitelik çıkarımı ve makine öğrenmesi tabanlı sınıflandırma
+- Derin öğrenme ve transformer tabanlı yöntemlerin araştırılması
 
-### 🧭 STM32-Based Avionics & Sensor Fusion
-- STM32F4 series flight computer development
-- IMU-based orientation estimation using UKF
-- Quaternion normalization and numerical stability handling
-- Real-time telemetry transmission and ground station integration
+### 🚀 Yapay Zekâ Destekli Simülasyon ve Tahmin Sistemleri
+- Simülasyon verileri üzerinden makine öğrenmesi ile tahmin modelleri
+- Algoritma temelli analiz ve model doğrulama süreçleri
+- Masaüstü uygulamalarla görselleştirme ve kullanıcı etkileşimi
 
-### 🍎 Computer Vision – Rotten/Fresh Detection
-- HSV & LAB color space–based classical vision pipelines
-- Shadow-resistant segmentation techniques
-- Statistical feature extraction and ML-based classification
-- Exploration of transformer-based segmentation methods
+### 🧠 Algoritma ve Sistem Odaklı Projeler
+- Sensör verilerinin yazılım tarafında işlenmesi ve yorumlanması
+- Modüler, sürdürülebilir ve okunabilir yazılım mimarileri
+- Mühendislik problemlerine sistematik yaklaşım
 
 ---
 
 <div align="center">
-  <i>“Engineering is not just building systems — it’s validating them against reality.”</i>
+  <i>“Mühendislik, doğru problemi tanımlamak ve onu veriye dayalı şekilde çözmektir.”</i>
 </div>
 
 <div align="center">
