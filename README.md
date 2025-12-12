@@ -88,14 +88,6 @@ I value **engineering discipline**, **iterative development**, and **sharing kno
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismetarslan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismetarslan&layout=compact&theme=radical" width="40%" />
-</p>
-
----
-
 <div align="center">
   <i>“Engineering is not just building systems — it’s validating them against reality.”</i>
 </div>
