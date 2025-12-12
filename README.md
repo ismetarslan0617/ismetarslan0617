@@ -73,10 +73,7 @@ Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüst
 ### ⚙️ Araçlar & Platformlar
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
+   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 <p align="center">
