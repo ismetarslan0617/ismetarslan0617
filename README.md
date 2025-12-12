@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-Ben, **veriye dayalı modeller** ve **görüntü işleme** yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan bir **Bilgisayar Mühendisliği öğrencisiyim**.  
+Ben, **veriye dayalı modeller** ve **görüntü işleme** yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan bir **Bilgisayar Mühendisiyim**.  
 Projelerimde; **algoritma tasarımı**, **sensör/telemetri verisi işleme** ve **masaüstü uygulama geliştirme** gibi alanlarda uçtan uca sistem yaklaşımını benimsiyorum.
 </p>
 
@@ -36,7 +36,7 @@ Projelerimde; **algoritma tasarımı**, **sensör/telemetri verisi işleme** ve 
 </div>
 
 - 🧠 **Makine Öğrenmesi**
-- 🖼️ **Görüntü İşleme / Bilgisayarlı Görü**
+- 🖼️ **Görüntü İşleme**
 - 🤖 **Yapay Zekâ Destekli Mühendislik Uygulamaları**
 - 🚀 **Aviyonik Sistem Tasarımı (sistem & yazılım seviyesi)**
 - 🧩 **Algoritma Tasarımı ve Veri İşleme**
