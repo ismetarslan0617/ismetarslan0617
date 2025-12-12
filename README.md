@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisliği+Öğrencisi;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisliği;Makine+Öğrenmesi+%7C+Görüntü+İşleme;Yapay+Zekâ+Destekli+Mühendislik" />
 </h1>
 
 <div align="center">
