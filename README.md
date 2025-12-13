@@ -26,8 +26,7 @@
 </p>
 
 <p align="center">
-Ben, veriye dayalı modeller ve görüntü işleme yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanan ve elektronik prototipler geliştirebilen bir Bilgisayar Mühendisiyim.  
-Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüstü ve mobil uygulama geliştirme gibi alanlarda uçtan uca sistem yaklaşımını benimsiyorum.
+Yazılım geliştirme, gerçek zamanlı veri işleme ve makine öğrenmesi alanlarında çalışan bir Bilgisayar Mühendisiyim. TEKNOFEST projeleri kapsamında elektronik, sensör entegrasyonu ve aviyonik sistemler üzerine uygulamalı deneyim kazandım; veriye dayalı modeller ve görüntü işleme yöntemleriyle mühendislik problemlerine çözüm üretmeye odaklanıyorum. Projelerimde algoritma tasarımı ve sensör/telemetri verisi işleme merkezli uçtan uca sistem yaklaşımını benimsiyorum.
 </p>
 
 <div align="center">
