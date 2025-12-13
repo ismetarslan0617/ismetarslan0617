@@ -58,7 +58,7 @@ Projelerimde; algoritma tasarımı, sensör/telemetri verisi işleme ve masaüst
 
 ### 💻 Programlama Dilleri
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,matlab" />
 </p>
 
 ### 📚 Kütüphaneler & Frameworkler
